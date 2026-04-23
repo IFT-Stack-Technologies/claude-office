@@ -5,7 +5,7 @@
   xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
   xsi:type="TaskPaneApp">
   
-  <Id>4e2fd29d-dad0-40b3-af3c-a16e347a5ddc</Id>
+  <Id>e50ea58a-e210-4b7c-affb-9f65a67d1153</Id>
   <Version>1.0.0.12</Version>
   <ProviderName>Anthropic</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
